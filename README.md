@@ -271,9 +271,3 @@ This repository contains educational assignments from the Coursera RAG course. W
 - ✅ System observability and tracing
 - ✅ Performance optimization
 - ✅ Scalable architecture design
-
----
-
-**🎉 Congratulations on completing the Coursera RAG Course!**
-
-This repository represents a comprehensive journey from basic RAG concepts to production-ready systems. Each assignment builds upon the previous one, providing hands-on experience with real-world challenges and solutions in the field of Retrieval-Augmented Generation.
